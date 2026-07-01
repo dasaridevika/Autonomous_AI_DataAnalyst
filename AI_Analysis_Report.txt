@@ -1,0 +1,49 @@
+============================================================
+AI DATA ANALYST REPORT
+============================================================
+
+DATASET INFORMATION
+----------------------------------------
+Rows: 7
+Columns: 4
+
+Column Names:
+- Name
+- Department
+- Salary
+- Experience
+
+
+CLEANING REPORT
+----------------------------------------
+Duplicates Removed: 0
+
+Missing Values Before:
+Name: 0
+Department: 0
+Salary: 1
+Experience: 0
+
+Missing Values After:
+Name: 0
+Department: 0
+Salary: 0
+Experience: 0
+
+
+OUTLIER REPORT
+----------------------------------------
+Salary: 0 outliers
+Experience: 0 outliers
+
+
+BUSINESS INSIGHTS
+----------------------------------------
+• Average Salary: 67142.86
+• Maximum Salary: 90000.0
+• Minimum Salary: 50000.0
+• Average Experience: 4.43
+• Maximum Experience: 8
+• Minimum Experience: 2
+• Most frequent Name: David
+• Most frequent Department: IT
